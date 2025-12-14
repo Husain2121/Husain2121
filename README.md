@@ -2,7 +2,7 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Enterprise Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Enterprise Home Lab](https://github.com/Husain2121/AcitveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
