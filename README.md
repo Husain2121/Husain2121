@@ -3,6 +3,7 @@
 <h2>💻 IT Projects:</h2>
 
   - [Active Directory Enterprise Home Lab](https://github.com/Husain2121/AcitveDirectoryLab)
+  - [Recursive DNS Server using Pihole](https://github.com/Husain2121/Recursive-DNS-Server-Pihole)
 
 <h2> 🤳 Connect with me:</h2>
 
