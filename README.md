@@ -6,7 +6,7 @@
   - [Recursive DNS Server using Pihole](https://github.com/Husain2121/Recursive-DNS-Server-Pihole)
 ## ⌨️ Software Development Projects:
 
-- **Data Structures and Algorithms Practice (AlgoExpert)**
+- **Data Structures and Algorithms Practice**
   - [Practicing DS & Algorithms in Python](https://github.com/Husain2121/DS-Algorithm-Practice)
 
 
