@@ -5,6 +5,11 @@
   - [Active Directory Enterprise Home Lab](https://github.com/Husain2121/AcitveDirectoryLab)
   - [Recursive DNS Server using Pihole](https://github.com/Husain2121/Recursive-DNS-Server-Pihole)
 
+<h2>⌨️ Software Development Projects:</h2>
+- **Data Structures and Algorithms Practice (AlgoExpert)**
+  - [Practicing DS & Algos in Python]()
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
