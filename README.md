@@ -7,7 +7,7 @@
 ## ⌨️ Software Development Projects:
 
 - **Data Structures and Algorithms Practice (AlgoExpert)**
-  - [Practicing DS & Algorithms in Python]()
+  - [Practicing DS & Algorithms in Python](https://github.com/Husain2121/DS-Algorithm-Practice)
 
 
 
