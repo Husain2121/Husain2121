@@ -9,7 +9,7 @@
 - **Data Structures and Algorithms Practice**
   - [Practicing DS & Algorithms in Python](https://github.com/Husain2121/DS-Algorithm-Practice)
 
-## ⌨️ Cyber Security Projects
+## 🛡️🌐 Cyber Security Projects
 - [File Integrity Monitor](https://github.com/Husain2121/FileIntegrityMonitor)
 
 
