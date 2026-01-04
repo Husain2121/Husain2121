@@ -9,7 +9,7 @@
 - **Data Structures and Algorithms Practice**
   - [Practicing DS & Algorithms in Python](https://github.com/Husain2121/DS-Algorithm-Practice)
 
-## ⌨️ Cybersecurity Projects:
+## ⌨️ Cyber Security Projects:
 
 
 
